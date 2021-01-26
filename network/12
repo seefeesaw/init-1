@@ -1,0 +1,5 @@
+#windows
+ipconfig /all | find /i “DHCP Server”
+
+#debian
+ifconfig lo | grep inet | awk '{print $2}' | grep -m1 ""
