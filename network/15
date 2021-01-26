@@ -1,0 +1,5 @@
+use cat "46.19.122.85 intra.42.fr" >> /etc/hosts
+
+to add 76.19.122.85 intra.42.fr in the /etc/hosts
+
+or add it manually on the file
