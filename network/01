@@ -1,0 +1,4 @@
+ifconfig | awk '{print $1}'
+
+
+#-F":"
