@@ -1,0 +1,3 @@
+cat /etc/hosts
+
+#Check what's in etc folder, inside the hosts directory is where you find the local DNS entries
