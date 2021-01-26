@@ -1,0 +1,4 @@
+
+SSH keys that are authorized are in the user's home (/ home / <user> or / root /), in the .ssh folder, in the authorized_keys file.
+
+~/.ssh/authorized_keys
