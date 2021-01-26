@@ -1,0 +1,3 @@
+cat /etc/resolv.conf
+
+#Gets you to the file that contains the ip of the used DNS Server
